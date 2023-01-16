@@ -1,0 +1,1 @@
+Cancel previous build for the same PR or branch
