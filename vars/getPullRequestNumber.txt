@@ -1,0 +1,1 @@
+Returns the Pull Request number, if commit starts form PR-XX
